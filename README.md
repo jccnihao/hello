@@ -38,12 +38,13 @@ int main{
 - first
 - second
 - third
-- 
-*or*
+
+> *or*
+
 * one
 * two
 * three
-* 
+
 **带数字**
 1. one
 2. two
@@ -55,9 +56,9 @@ int main{
 2. 代码块
  ``` 
   int main(){
-  int a;
-  } 
+   int a;
+   } 
  ```
- ##
+ 
 
 
