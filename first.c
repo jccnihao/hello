@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main (){
+	printf("nihao\n");
 	printf("**********************************");
 	printf("\nFinish sort in the following!\n");
 	printf("**********************************\n");
